@@ -1,0 +1,10 @@
+Metric,Value
+Total Patients,552
+T1 Images,552
+Lesion Masks,552
+Validated Images,1104
+Spacing Outlier Patients,3
+Orientation Outlier Patients,10
+Registration Required,No
+Bias Field Correction,Skipped
+Foreground Cropping,Skipped
